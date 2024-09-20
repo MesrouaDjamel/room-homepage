@@ -39,8 +39,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/MesrouaDjamel/room-homepage)
-- Live Site URL: [Vercel](https://room-homepage.vercel.app/)
-- FrontEndMentor: [FrontEndMentor](https://www.frontendmentor.io/solutions/responsive-landing-page-using-grid--nVnYsoQqi)
+- Live Site URL: [Vercel](https://room-homepage-mesroua-djamels-projects.vercel.app/)
+- FrontEndMentor: [FrontEndMentor](https://www.frontendmentor.io/solutions/responsive-homepage-using-flexbox-FaIFgbGVvh)
 
 ## My process
 I started the project using npx create-next-app@latest we configured the project following the instructions (use typescript, use tailwindscss, use app router...).

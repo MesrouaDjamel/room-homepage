@@ -1,9 +1,10 @@
-import Button from "./Button";
+import Button from "../../src/components/Button";
+
 type TProductDescriptionProps = {
-    title :string
-    desc : string
-}
-const ProductDescription = ({title,desc}:TProductDescriptionProps) => {
+  title: string;
+  desc: string;
+};
+const ProductDescription = ({ title, desc }: TProductDescriptionProps) => {
   return (
     <article className="px-6 flex flex-col gap-5 pt-14 pb-12">
       <h1 className="text-4xl tracking-widest font-bold">
@@ -33,6 +34,6 @@ const ProductDescription = ({title,desc}:TProductDescriptionProps) => {
       />
     </article>
   );
-}
+};
 
-export default ProductDescription
+export default ProductDescription;

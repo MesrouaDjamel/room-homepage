@@ -1,7 +1,7 @@
 "use client";
+import Button from "@/components/Button";
+import Header from "@/components/Header";
 import Image from "next/image";
-import Button from "./Button";
-import Header from "./Header";
 import { useState } from "react";
 
 const SectionOne = () => {

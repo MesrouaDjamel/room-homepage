@@ -1,8 +1,8 @@
 "use client";
 import { Carousel } from "@material-tailwind/react";
 import Image from "next/image";
-import Button from "../Button";
-import SectionTwo from "../SectionTwo";
+import Button from "../../src/components/Button";
+import SectionTwo from "../../src/components/SectionTwo";
 
 export function CarouselWithContent() {
   return (
@@ -49,7 +49,6 @@ export function CarouselWithContent() {
         <div className="relative h-96 w-full">
           <div className="flex ">
             <div className="relative w-full">
-
               <Image
                 src={"/images/desktop/desktop-image-hero-1.jpg"}
                 alt="Image Hero 1"
